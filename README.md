@@ -1,4 +1,4 @@
-# Java: The Complete Java Developer Course ![Progress](https://progress-bar.dev/30/)
+# Java: The Complete Java Developer Course ![Progress](https://progress-bar.dev/28/)
 
 This repository contains code and projects completed during the Java: The Complete Java Developer Course on Udemy.
 
