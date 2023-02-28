@@ -1,4 +1,5 @@
 ![Build Status](https://travis-ci.com/<ecotalisman>/<JavaProgrammingMasterclass17_Udemy>.svg?branch=main)
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/<ecotalisman>/<JavaProgrammingMasterclass17_Udemy>)
 # Java: The Complete Java Developer Course ![Progress](https://progress-bar.dev/30/)
 
 This repository contains code and projects completed during the Java: The Complete Java Developer Course on Udemy.
